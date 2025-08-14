@@ -1,0 +1,89 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "5d5f2367-3aa1-42c1-a2a1-01bace9fd65a")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 138.43 67.31)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "65130934-5e77-4cb1-9cd6-98badf206a8f")
+		(property "Sheetname" "ESP32"
+			(at 138.43 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32_sch.kicad_sch"
+			(at 138.43 71.7046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SolarMonitor_V1"
+				(path "/5d5f2367-3aa1-42c1-a2a1-01bace9fd65a"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 52.07)
+		(size 16.51 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9dbb277e-6cc3-415b-bcb8-9de4d3925201")
+		(property "Sheetname" "PowerSharing"
+			(at 76.2 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PowerSharing.kicad_sch"
+			(at 76.2 65.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SolarMonitor_V1"
+				(path "/5d5f2367-3aa1-42c1-a2a1-01bace9fd65a"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
