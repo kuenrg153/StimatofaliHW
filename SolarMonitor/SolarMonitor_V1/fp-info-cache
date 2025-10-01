@@ -1,4 +1,4 @@
-25611620663074854
+25613393198303034
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -102690,6 +102690,13 @@ MCP73871
 11
 11
 stimatofali
+MP1584
+
+
+0
+8
+8
+stimatofali
 MT3608 Boost
 
 
@@ -102701,5 +102708,5 @@ TP4056 Battery Charger
 
 
 0
-8
-8
+6
+6

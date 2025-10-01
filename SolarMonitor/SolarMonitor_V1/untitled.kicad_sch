@@ -1113,13 +1113,13 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 104.14) (xy 163.83 104.14)
+			(xy 148.59 101.6) (xy 163.83 101.6)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "06356c34-8b02-4696-8424-d68eeedc0097")
+		(uuid "07931d6e-d47c-4be9-bdc4-41c4735186f7")
 	)
 	(wire
 		(pts
@@ -1130,6 +1130,16 @@
 			(type default)
 		)
 		(uuid "0a5bc1ae-9e5c-4822-9915-d458c5fc2897")
+	)
+	(wire
+		(pts
+			(xy 148.59 106.68) (xy 163.83 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c4492c6-80df-47b3-a73f-57135a98565f")
 	)
 	(wire
 		(pts
@@ -1173,6 +1183,16 @@
 	)
 	(wire
 		(pts
+			(xy 148.59 104.14) (xy 163.83 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "309c88b5-e482-495c-9fb9-a01656084013")
+	)
+	(wire
+		(pts
 			(xy 214.63 58.42) (xy 228.6 58.42)
 		)
 		(stroke
@@ -1180,16 +1200,6 @@
 			(type default)
 		)
 		(uuid "367d08d1-0b5d-45f5-991d-01f3307585a5")
-	)
-	(wire
-		(pts
-			(xy 148.59 106.68) (xy 163.83 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3d4dfcc0-98a3-494a-81e3-8dcaf3bb5e33")
 	)
 	(wire
 		(pts
@@ -1210,16 +1220,6 @@
 			(type default)
 		)
 		(uuid "40b3184b-4a71-46b9-a795-ac0fae1bf4a1")
-	)
-	(wire
-		(pts
-			(xy 148.59 99.06) (xy 163.83 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4178f8fa-2c26-4c9c-aebe-cbba91339737")
 	)
 	(wire
 		(pts
@@ -1273,16 +1273,6 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 101.6) (xy 163.83 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "673fe32c-3bcd-4e94-83e4-4e3f4c648738")
-	)
-	(wire
-		(pts
 			(xy 226.06 60.96) (xy 214.63 60.96)
 		)
 		(stroke
@@ -1290,16 +1280,6 @@
 			(type default)
 		)
 		(uuid "74579869-9306-4712-9244-1996a8489dae")
-	)
-	(wire
-		(pts
-			(xy 148.59 109.22) (xy 163.83 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7dc9fe8d-17a1-42a7-a684-3b4fab48bc55")
 	)
 	(wire
 		(pts
@@ -1343,6 +1323,16 @@
 	)
 	(wire
 		(pts
+			(xy 148.59 99.06) (xy 163.83 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3a1a094-b6a1-42a8-8558-95fe01eb314d")
+	)
+	(wire
+		(pts
 			(xy 148.59 81.28) (xy 163.83 81.28)
 		)
 		(stroke
@@ -1350,16 +1340,6 @@
 			(type default)
 		)
 		(uuid "b2f39bcd-a40e-4d4b-8aab-a8d3e6e5acdf")
-	)
-	(wire
-		(pts
-			(xy 148.59 114.3) (xy 152.4 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b4dd22c8-1b83-4a02-822a-0b7cefd5aba7")
 	)
 	(wire
 		(pts
@@ -1451,6 +1431,16 @@
 		)
 		(uuid "f8cac848-f936-444a-9dac-cdae7fd0063e")
 	)
+	(wire
+		(pts
+			(xy 148.59 109.22) (xy 163.83 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd2f693d-2abc-4e85-b4a4-50a978912d5d")
+	)
 	(label "3V3"
 		(at 214.63 58.42 0)
 		(effects
@@ -1482,7 +1472,7 @@
 		(uuid "2078422d-6979-427e-9fd7-28acc29f7b76")
 	)
 	(label "MultiAdd1"
-		(at 163.83 106.68 180)
+		(at 163.83 104.14 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1502,7 +1492,7 @@
 		(uuid "29f615e2-9046-4034-ab04-212c5988f475")
 	)
 	(label "MultiAdd2"
-		(at 163.83 104.14 180)
+		(at 163.83 106.68 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1532,7 +1522,7 @@
 		(uuid "5d5c0e32-5fc1-48ac-ba34-90980ec05edc")
 	)
 	(label "MultiAdd0"
-		(at 163.83 109.22 180)
+		(at 163.83 101.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1542,7 +1532,7 @@
 		(uuid "6683e35f-a718-4f91-9ed1-fac3e5c1c699")
 	)
 	(label "MultiAdd3"
-		(at 163.83 101.6 180)
+		(at 163.83 109.22 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1593,7 +1583,7 @@
 	)
 	(hierarchical_label "MultiAdd1"
 		(shape output)
-		(at 163.83 106.68 0)
+		(at 163.83 104.14 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1604,7 +1594,7 @@
 	)
 	(hierarchical_label "MultiAdd0"
 		(shape output)
-		(at 163.83 109.22 0)
+		(at 163.83 101.6 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1692,7 +1682,7 @@
 	)
 	(hierarchical_label "MultiAdd3"
 		(shape output)
-		(at 163.83 101.6 0)
+		(at 163.83 109.22 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1703,7 +1693,7 @@
 	)
 	(hierarchical_label "MultiAdd2"
 		(shape output)
-		(at 163.83 104.14 0)
+		(at 163.83 106.68 0)
 		(effects
 			(font
 				(size 1.27 1.27)
